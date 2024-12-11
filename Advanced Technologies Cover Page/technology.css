@@ -1,0 +1,19 @@
+.bg-card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size:cover ;
+    height: 100vh;
+}
+.bg-inner{
+    background-color: white;
+    padding: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.head-inner{
+    color: rgb(41, 42, 125);
+    font-family: unset;
+}
+
+.para-inner{
+    font-family: sans-serif;
+}

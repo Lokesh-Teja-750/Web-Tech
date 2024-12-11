@@ -1,0 +1,19 @@
+.bg-card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-inner{
+    background-color: transparent;
+    border-width: 5px;
+    width: 25vw;
+    border-color: rgb(12, 230, 81);
+    border-style: solid;
+    margin-left: 450px;
+}
+
+.bg-in-card{
+    color: white;
+    font-size: 50px;
+}

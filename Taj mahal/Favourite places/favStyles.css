@@ -1,0 +1,31 @@
+.bg-card{
+    background-image: url("https://images.pexels.com/photos/27637395/pexels-photo-27637395/free-photo-of-burning-incense-vase-with-bare-twigs-and-a-candle-in-an-old-fashioned-candlestick-holder.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-size: cover;
+    padding: 30px;
+}
+
+.head-main{
+    color: rgb(9, 112, 238);
+    font-size: 40px;
+    font-family: initial;
+    font-weight: bold;
+}
+
+.inner-card{
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 19px;
+}
+
+.head-inner{
+    font-weight: bold;
+    font-family: initial;
+}
+
+.image-type{
+    height: 150px;
+    margin-top: 25px;
+    padding-left: 10px;
+    border-radius: 25px;
+}

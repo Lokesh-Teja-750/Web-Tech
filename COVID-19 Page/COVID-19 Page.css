@@ -1,0 +1,75 @@
+.bg-container{
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(144, 144, 202);
+    padding: 20px;
+}
+
+.first-card{
+    background-color: white;
+    padding: 20px;
+}
+.first-para{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image-doc{
+    height: 100px;
+}
+.sideside{
+    padding: 20px;
+    padding-left: 30px;
+}
+.second-card{
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.image-docc{
+    height: 70px;
+}
+.sec-head{
+    color: rgb(31, 77, 118);
+    font-size: 20px;
+}
+.second-para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.Symptoms{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.inner-card-im{
+    background-color: rgb(18, 196, 137);
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.para-dec{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.videos{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(88, 88, 21);
+}
+
+.videos-card{
+    background-color: rgb(217, 194, 163);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.video-para{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

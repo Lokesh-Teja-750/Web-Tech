@@ -1,0 +1,29 @@
+.bg-Container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png"); 
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    padding-top: 20px;   
+    padding: 50px;
+}
+
+.head{
+    text-align: center;
+}
+
+.head1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.button{
+    background-color: orange;
+    color: white;
+    padding:10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 25px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: blue;
+}

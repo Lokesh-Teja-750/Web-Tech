@@ -1,0 +1,27 @@
+.bg-container{
+    height: 100vh;
+}
+.conference-image{
+    width: 100vw;
+}
+
+.Conference-det{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.conference-head{
+    color: rgb(18, 55, 205);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.para-down{
+    color: rgb(87, 101, 112);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.buttonn{
+    color: aliceblue;
+}
+

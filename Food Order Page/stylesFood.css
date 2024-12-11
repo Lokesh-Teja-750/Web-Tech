@@ -1,0 +1,14 @@
+.bg-card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.in-card{
+    background-color: rgb(240, 198, 9);
+    padding: 15px;
+    text-align: center;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    color: lightcyan;
+}

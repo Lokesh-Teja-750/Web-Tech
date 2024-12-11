@@ -1,0 +1,43 @@
+.bg-top{
+    background-color: #506163;
+    height: 15vh;
+    text-align: center;
+    color: white;
+}
+
+.bg-bottom{
+    height: 130vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    padding-top: 20px;
+    padding: 20px;
+    color: white;
+}
+
+.blue-ax{
+    background-color: rgb(98, 71, 182);
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.blue-axx{
+    background-color: rgb(71, 165, 182);
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.lokesh{
+    margin-right: 40px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Varakumar{
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}

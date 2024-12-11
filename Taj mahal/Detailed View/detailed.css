@@ -1,0 +1,16 @@
+.bg-container{
+    background-image: url("https://images.pexels.com/photos/29082642/pexels-photo-29082642/free-photo-of-vibrant-ocean-waves-on-a-sunny-day.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+    padding: 35px;
+}
+
+.main-head{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.bg-down{
+    background-color: aliceblue;
+    padding: 20px;
+}
